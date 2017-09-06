@@ -9,8 +9,5 @@
 	echo "Amin";
 	echo "Amin";
 	echo "Amin";
-	echo "Amin";
-	echo "Amin";
-	echo "Amin";
-	echo "Amin";
+	echo "bale dah khat amin"
 ?>
